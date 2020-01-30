@@ -1,3 +1,3 @@
 # Analytics
 
-This repo contains volunteer or for-fun analytics projects.
+This repo contains a sample code for an analytics project that I did for the nonprofit SSP. 
